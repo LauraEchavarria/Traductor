@@ -102,7 +102,7 @@ if result:
     elif out_lang == "Japonés":
         output_language = "ja"
     elif out_lang == "Francés":
-        input_language = "fr":
+        input_language = "fr"
     elif out_lang == "Alemán":
         input_language = "de"
     
